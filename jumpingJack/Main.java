@@ -11,10 +11,10 @@ import javax.swing.Timer;
 		static JFrame frame = new JFrame();		
 	public static void main (String [] args) throws InterruptedException{
 		
-		frame.setSize(Game.WIDTH, Game.HEIGHT);					//declares the JFrame (window) that all of this is housed in
-		frame.setVisible(true);									//you have to be able to see the JFrame
-		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);	//Honestly don't know what this does, but it has to be here.
-		frame.setLocationRelativeTo(null);						//sets the window up in the middle of the screen
+		frame.setSize(Game.WIDTH, Game.HEIGHT);					
+		frame.setVisible(true);									
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);	
+		frame.setLocationRelativeTo(null);						
 		
 		runnit();	//begins running the method below
 		
