@@ -63,5 +63,5 @@ Feel free to contribute to this repo. For contribution guidelines, please read [
 
 
 ## License
-
+Read the license information [here](/license).
 
