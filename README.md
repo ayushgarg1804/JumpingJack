@@ -2,11 +2,17 @@
 
 **Table of Contents**
 1. [About](#about)
+
 2. [How does it work?](#how-does-it-work)
+
 3. [Technologies Used](#technologies-used)
+
 4. [Demo](#demo)
+
 5. [Installation](#installation)
+
 6. [Contributing](#contributing)
+
 8. [License](#license)
 
 ## About
